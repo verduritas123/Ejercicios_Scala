@@ -1,0 +1,27 @@
+{
+  "name": "scala",
+  "argv": [
+    "C:\\Program Files (x86)\\scala\\libexec\\scala-cli.exe",
+    "--cli-default-scala-version",
+    "3.6.4",
+    "--repository",
+    "file:///C:/Program Files (x86)/scala/maven2",
+    "--prog-name",
+    "scala",
+    "--skip-cli-updates",
+    "bsp",
+    "--json-options",
+    "C:\\Users\\eleni\\Documents\\Impulso\\Ejercicios_Scala\\.scala-build\\ide-options-v2.json",
+    "--json-launcher-options",
+    "C:\\Users\\eleni\\Documents\\Impulso\\Ejercicios_Scala\\.scala-build\\ide-launcher-options.json",
+    "--envs-file",
+    "C:\\Users\\eleni\\Documents\\Impulso\\Ejercicios_Scala\\.scala-build\\ide-envs.json",
+    "C:\\Users\\eleni\\Documents\\Impulso\\Ejercicios_Scala\\HolaMundo.scala"
+  ],
+  "version": "1.5.4",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
