@@ -1,0 +1,84 @@
+{
+    "localidade 1": {
+    "Continente": "África",
+    "País": "Angola",
+    "Capital": "Luanda"
+    },
+    "localidade 2": {
+    "Continente": "América do Norte",
+    "País": "Estados Unidos",
+    "Capital": "Washington DC"
+    },
+    "localidade 3": {
+    "Continente": "América Central",
+    "País": "México",
+    "Capital": "Cidade do México"
+    },
+    "localidade 4": {
+    "Continente": "América do Sul",
+    "País": "Brasil",
+    "Capital": "Brasília"
+    },
+    "localidade 5": {
+    "Continente": "Europa",
+    "País": "Espanha",
+    "Capital": "Madri"
+    },
+    "localidade 6": {
+    "Continente": "Europa",
+    "País": "Alemanha",
+    "Capital": "Berlim"
+    },
+    "localidade 7": {
+    "Continente": "Oceania",
+    "País": "Austrália",
+    "Capital": "Camberra"
+    },
+    "localidade 8": {
+    "Continente": "Ásia",
+    "País": "Japão",
+    "Capital": "Tóquio"
+    }
+}
+
+1: localidades["localidade 8"]["País"]
+2: localidades["localidade 9 "]={"Continente": "Europa",
+    "País": "Espanha",
+    "Capital": "Madri"}
+3: localidades ["localidade 4"] = ["n_habitantes"] = "7 millones"
+
+4:
+{
+    "Luanda": {
+    "Continente": "África",
+    "País": "Angola"
+    },
+    "Washington DC": {
+    "Continente": "América do Norte",
+    "País": "Estados Unidos"
+    },
+    "Cidade do México": {
+    "Continente": "América Central",
+    "País": "México"
+    },
+    "Brasília": {
+    "Continente": "América do Sul",
+    "País": "Brasil"
+    },
+    "Madri": {
+    "Continente": "Europa",
+    "País": "Espanha"
+    },
+    "Berlim": {
+    "Continente": "Europa",
+    "País": "Alemanha"
+    },
+    "Camberra": {
+    "Continente": "Oceania",
+    "País": "Austrália"
+    },
+    "Tóquio": {
+    "Continente": "Ásia",
+    "País": "Japão"
+    }
+}

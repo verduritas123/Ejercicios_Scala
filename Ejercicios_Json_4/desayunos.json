@@ -1,0 +1,55 @@
+{
+    "desayunos": [
+      {
+        "_id": "67e980f5dd834e47d75995fd",
+        "nombre": "Gofres belgas",
+        "precio": 5.95,
+        "descripcion": "Gofres con sirope",
+        "calorias": 650
+      },
+      {
+        "_id": "67e980f5dd834e47d75995fe",
+        "nombre": "Gofres belgas con fresas",
+        "precio": 7.95,
+        "descripcion": "Gofres con fresas y nata",
+        "calorias": 900
+      },
+      {
+        "_id": "67e980f5dd834e47d75995ff",
+        "nombre": "Gofres belgas con frutas del bosque",
+        "precio": 8.95,
+        "descripcion": "Gofres con frutas del bosque y nata",
+        "calorias": 900
+      },
+      {
+        "_id": "67e980f5dd834e47d7599600",
+        "nombre": "Tostada francesa",
+        "precio": 4.5,
+        "descripcion": "Pan francés",
+        "calorias": 600
+      }
+    ]
+  }
+
+  {
+    "desayunos": {
+      "Gofres belgas": {
+        "precio": 5.95,
+        "calorias": 650
+      },
+      "Gofres belgas con fresas": {
+        "precio": 7.95,
+        "calorias": 900
+      },
+      "Gofres belgas con frutas del bosque": {
+        "precio": 8.95,
+        "calorias": 900
+      },
+      "Tostada francesa": {
+        "precio": 4.5,
+        "calorias": 600
+      }
+    }
+  }
+  
+  
