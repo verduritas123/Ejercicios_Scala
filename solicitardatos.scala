@@ -18,8 +18,11 @@ object SolicitarDatos{
         print("Ingresa tu dirección: ")
         val direccion = StdIn.readLine()
 
-        datos += s" $nombre\n  $apellidos\n  $email\n  $direccion"
-        println(datos.mkString("\n "))
+        datos += nombre  
+        datos +=apellidos  
+        datos +=email 
+        datos +=direccion
+        println(datos.mkString(","))
 
 
     }
