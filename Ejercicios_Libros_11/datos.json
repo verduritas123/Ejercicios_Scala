@@ -1,0 +1,27 @@
+{
+    "autores": [
+      {
+        "nombre": "Laura Martínez",
+        "nacionalidad": "España",
+        "edad": 42
+      },
+      {
+        "nombre": "Pedro Suárez",
+        "nacionalidad": "México",
+        "edad": 37
+      }
+    ],
+    "libros": [
+      {
+        "titulo": "Programación Funcional en Scala",
+        "isbn": "ISBN-2001",
+        "autor": "Laura Martínez"
+      },
+      {
+        "titulo": "MongoDB para desarrolladores",
+        "isbn": "ISBN-2002",
+        "autor": "Pedro Suárez"
+      }
+    ]
+  }
+  
